@@ -1,6 +1,9 @@
-<img width="30%"  style="margin-left: 30%; display:block;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxmbmVhb2JuaGx1MzZnb3llajd0bXRwYmswbTlxMHRxaTRkZ3NpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.webp" >
+<img width="30%"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxmbmVhb2JuaGx1MzZnb3llajd0bXRwYmswbTlxMHRxaTRkZ3NpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.webp" >
+<img width="30%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRlaG4yaHR2cXNqaHo2Z2I5em1ydTFndm41aGNha2dxMTljMmZ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/24FMS5ZlpMOjxxsqH8/giphy.webp" >
 
 # Hello, I am **Shakib Ahmed Srabon**
+
+
 
 ## 🌐 Socials ↷
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/iam.shakibahmedsrabon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hQttps://www.instagram.com/shakibahmedsrabon/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shakibahmedsrabon) [![X](https://img.shields.io/badge/X-black.svg)](https://x.com/https://x.com/Shak1bAhmed) 
@@ -21,4 +24,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shakibahmedsrabon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?&type=vertical&theme=tokyonight)
