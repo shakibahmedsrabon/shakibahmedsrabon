@@ -1,7 +1,6 @@
-Hello, I am **Shakib Ahmed Srabon.**
+<img width="30%"  style="margin-left: 30%; display:block;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxmbmVhb2JuaGx1MzZnb3llajd0bXRwYmswbTlxMHRxaTRkZ3NpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.webp" >
 
-
-<img width="30%"  style="margin-left: 30%; display:block;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlzZGl1ejg1ZXZtZmhwdDl1N3p1MWNqenQ1MGNsdnRodXc2N200byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.webp" >
+# Hello, I am **Shakib Ahmed Srabon.**
 
 
 ## 🌐 Socials ↷
