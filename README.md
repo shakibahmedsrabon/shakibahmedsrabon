@@ -1,16 +1,12 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/437858028_410484568261246_4749073734036252233_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHvGmTTl1ItAP_C6HRyk28HiubqmxYyErqK5uqbFjISuoaZFCSTzSwIxptAu3vjnH-mdtMUZKwq_v9WAQ7nmMVq&_nc_ohc=OBa48G1VM4AQ7kNvgEbOajl&_nc_zt=23&_nc_ht=scontent.fjsr17-1.fna&_nc_gid=AtTTr3eX_VpShpy42z47WHX&oh=00_AYCP4LFwMK13aBpvRY7ipoNHsE3OxCUAq7Wu3ubHeYAo7g&oe=67326784" /></a></p>
+Hello, I am **Shakib Ahmed Srabon.**
 
-<br />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFhNmh6Z3dmMXR2MDkyaDZneDN5M3c0Mmg2YmFmaGc0ZW43bmgybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eZBJ45h3X2ti2vM6Do/giphy.webp" >
 
-Hello, I am **Shakib Ahmed Srabon**
+<center>Who are you?</center>
 
-**About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+<br>
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
