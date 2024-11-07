@@ -8,7 +8,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=*white)](https://facebook.com/https://www.facebook.com/iam.shakibahmedsrabon)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hQttps://www.instagram.com/shakibahmedsrabon/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shakibahmedsrabon)
-[![X](https://img.shields.io/badge/X-black.svg)](https://x.com/https://x.com/Shak1bAhmed) 
+[![X](https://img.shields.io/badge/X-black.svg)](https://x.com/https://x.com/Shak1bAhmed) [![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/shakibahmedsrabon/)
+
 
 ### Tech Stack ↯
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
